@@ -1,6 +1,6 @@
 <template>
 <div class="container">
-  <h3>Essa é a minha index</h3>
+  <h3>Aqui é a minha pagina Dashboard</h3>
 </div>
 </template>
 
